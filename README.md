@@ -8,9 +8,9 @@ This repository is an improved version for the anchor-based part of [A2Net](http
 
 The detection results on THUMOS14 dataset:
 
-| mAP@ | 0.3  | 0.4  | 0.5  | 0.6  | 0.7  |
-| :--: | :--: | :--: | :--: | :--: | :--: |
-|      |      |      |      |      |      |
+| mAP@ |  0.3  |  0.4  |  0.5  |  0.6  |  0.7  |
+| :--: | :---: | :---: | :---: | :---: | :---: |
+|      | 61.83 | 58.03 | 51.12 | 35.93 | 20.72 |
 
 ## Prerequisites
 
