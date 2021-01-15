@@ -4,6 +4,8 @@ A pytorch-version implementation codes of paper: "Single Shot Temporal Action De
 
 This repository is an improved version for the anchor-based part of [A2Net](https://github.com/VividLe/A2Net).
 
+If you find the repository helpful to you, here is a version that combines anchor-based module and anchor-free module: [MSA-Net](https://github.com/blowing-wind/MSA-Net).
+
 ## Result
 
 The detection results on THUMOS14 dataset:
